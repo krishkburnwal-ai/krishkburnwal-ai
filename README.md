@@ -1,16 +1,71 @@
-## Hi there 👋
+Hi, I'm Krish 👋
 
-<!--
-**krishkburnwal-ai/krishkburnwal-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Power Engineering undergraduate at Jadavpur University, currently exploring Machine Learning, Deep Learning and Artificial Intelligence.
 
-Here are some ideas to get you started:
+I'm learning by building projects, working with real datasets, participating in hackathons, and trying to understand how things actually work rather than just collecting technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm currently working on
+
+- 🐍 Python
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- 🤖 Artificial Intelligence
+- 💻 Data Structures & Algorithms
+- 🔬 Exploring Generative AI
+
+Tech I use
+
+Languages
+
+- Python
+- C++
+
+Data & ML
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+Deep Learning
+
+- TensorFlow
+- Keras
+
+Tools
+
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Streamlit
+
+Some things I've built
+
+Credit Card Fraud Detection
+
+An ANN-based fraud detection project using a highly imbalanced credit-card transaction dataset.
+Worked on data preprocessing, scaling, model training and evaluation.
+
+House Price Prediction
+
+A machine learning project with a Streamlit interface for predicting house prices from property features.
+
+AI-Powered Tender Bidding Agent
+
+A project focused on analysing tender documents and extracting useful information to assist with bidding decisions.
+
+
+Currently
+
+I'm focused on getting better at the fundamentals — especially Machine Learning, Deep Learning, DSA and writing better code.
+
+I'm still learning, so this profile is mostly a record of things I'm building, breaking, fixing and learning along the way.
+
+Connect
+
+- LinkedIn:https://www.linkedin.com/in/krish-kumar-burnwal-1b1962403
+- Email: krishburnwal082@gmail.com
+
+---
+
+«Learning by building. Improving one project at a time.»
